@@ -1,3 +1,4 @@
 {
 "com.qyhn.littlemusic" : "1.4",
+"com.smarthome.socket" : "2.1",
 }
