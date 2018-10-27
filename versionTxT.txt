@@ -1,1 +1,3 @@
-404 NotFound
+{
+"appBundleId" : "v1.1",
+}
