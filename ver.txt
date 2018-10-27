@@ -1,0 +1,3 @@
+{
+"com.qyhn.littlemusic" : "1.4",
+}
