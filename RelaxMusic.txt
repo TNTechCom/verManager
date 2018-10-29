@@ -1,4 +1,0 @@
-{
-"bundleId" : "com.qyhn.littlemusic",
-"version" : "1.4",
-}
