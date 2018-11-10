@@ -1,4 +1,4 @@
 {
-    "version" : "1.5",
-    "bundleId" : "com.guanzhuxuexi",
+  "version" : "1.1",
+  "bundleId" : "com.guanzhuxuexi",
 }
