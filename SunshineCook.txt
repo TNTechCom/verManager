@@ -1,4 +1,0 @@
-{
-"version" : "1.0",
-"bundleId" : "com.tnt.SunshineCook.s",
-}
