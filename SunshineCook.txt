@@ -1,4 +1,4 @@
 {
 "version" : "1.0",
-"bundleId" : "com.tnt.SunshineCook.hhhhhhh",
+"bundleId" : "com.tnt.SunshineCook.s",
 }
