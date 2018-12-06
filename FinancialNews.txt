@@ -1,0 +1,4 @@
+{
+  "version" : "2.2",
+  "bundleId" : "com.qy15094.wxs",
+}
