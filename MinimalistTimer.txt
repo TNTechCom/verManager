@@ -1,4 +1,4 @@
 {
   "version" : "1.0",
-  "Simple.timer.unitilitie",
+  "bundleId" : "Simple.timer.unitilitie",
 }
